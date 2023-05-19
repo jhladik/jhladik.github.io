@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Making Programs Y2K Compliant: 1981 ASTCLOCK.COM DOS Program Disassembly"
-date:   2018-03-23 23:23:00 -0700
+title: "Making Programs Y2K Compliant: 1981 ASTCLOCK.COM DOS Program Disassembly"
+date: 2018-03-23 23:23:00 -0700
 categories: Programming
 tags: programming software assembly disassembly
 ---

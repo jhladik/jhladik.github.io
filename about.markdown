@@ -4,21 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+![This is I.](/assets/about/0.jpg)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Jakub Hladik but I usually go by Jake. I am a Christian. I am married. I work as a FPGA design engineer. I was born and grew up in the Czech Republic and now live in the United States. I enjoy learning, teaching others, playing and listening to music, photography, astronomy, flying, hiking, and having discussions with friends.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
-
-<ul>
-{% for category in site.categories %}
-    <li><a href="{{category.url}}"><strong>{{category|first}}</strong></a></li>
-{% endfor %}
-</ul>
+Consider reading ["Why do we believe what we believe?"](/believe/).

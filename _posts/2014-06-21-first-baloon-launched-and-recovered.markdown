@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "First Balloon Launched and Recovered"
-date:   2014-06-21 17:05:00 -0700
+title: "First Balloon Launched and Recovered"
+date: 2014-06-21 17:05:00 -0700
 categories: Baloonery
 tags: baloon helium weather
 ---

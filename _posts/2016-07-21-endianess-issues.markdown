@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Endianess Issues"
-date:   2016-07-21 09:40:00 -0700
+title: "Endianess Issues"
+date: 2016-07-21 09:40:00 -0700
 categories: Programming
 tags: programming software c
 ---
