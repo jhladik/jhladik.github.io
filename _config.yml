@@ -1,10 +1,14 @@
 title: Blog of Jakub Hladik
+author:
+  name: Jakub Hladik
+  email: lounge-gazer-0o@icloud.com
 email: lounge-gazer-0o@icloud.com
-description: >-
-  A computer engineer interested in everything.
+description: A computer engineer interested in everything.
 baseurl: ""
 url: "https://jhladik.github.io"
 github_username: jhladik
 theme: minima
 plugins:
   - jekyll-feed
+minima:
+  show_excerpts: true
