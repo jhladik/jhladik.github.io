@@ -6,5 +6,7 @@ baseurl: ""
 url: "https://jhladik.github.io"
 github_username: jhladik
 theme: minima
+google_analytics: G-ZEENHPSMM2
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag

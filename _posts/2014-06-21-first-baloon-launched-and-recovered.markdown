@@ -2,7 +2,7 @@
 layout: post
 title:  "First Balloon Launched and Recovered"
 date:   2014-06-21 17:05:00 -0700
-categories: baloonery
+categories: Baloonery
 ---
 
 ![Brent and I launching the first balloon.](/assets/2014-06-21-first-baloon-launched-and-recovered/0.jpg)

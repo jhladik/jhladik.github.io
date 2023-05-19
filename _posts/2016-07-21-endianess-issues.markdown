@@ -2,7 +2,7 @@
 layout: post
 title:  "Endianess Issues"
 date:   2016-07-21 09:40:00 -0700
-categories: programming
+categories: Programming
 ---
 
 I am sure many of you have run into issues with transferring data between big-endian and little-endian architectures. One of my projects at work required me to send data out of the RAM of a microcontroller to another over SPI. The memory dumps on the transmitter and receiver looked perfect but when I was trying to read the “recreated” structure elements from the memory block, I was reading values that just did not seem right.
