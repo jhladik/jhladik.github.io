@@ -1,7 +1,5 @@
 title: Blog of Jakub Hladik
-author:
-  name: Jakub Hladik
-  email: lounge-gazer-0o@icloud.com
+author: Jakub Hladik
 email: lounge-gazer-0o@icloud.com
 description: A computer engineer interested in everything.
 baseurl: ""
@@ -10,5 +8,3 @@ github_username: jhladik
 theme: minima
 plugins:
   - jekyll-feed
-minima:
-  show_excerpts: true
