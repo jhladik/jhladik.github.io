@@ -5,8 +5,9 @@ description: A computer engineer interested in everything.
 baseurl: ""
 url: "https://jhladik.github.io"
 github_username: jhladik
-theme: minima
+rss: RSS
 show_excerpts: true
+theme: minima
 google_analytics: G-ZEENHPSMM2
 plugins:
   - jekyll-feed
