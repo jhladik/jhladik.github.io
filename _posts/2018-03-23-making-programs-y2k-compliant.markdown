@@ -6,13 +6,9 @@ categories: Programming
 tags: programming software assembly disassembly
 ---
 
-{% for tag in site.tags %}
-  {{ tag[0] }}
-{% endfor %}
+A program that sets time on my 1982 IBM PC had a Y2K bug in the date print out and I decided to solve it. After a very long night, I achieved success.
 
 ![Before and after Y2K bug fix.](/assets/2018-03-23-making-programs-y2k-compliant/0.jpg)
-
-I enjoy studying computer history and experiencing it. A program that sets time on my 1982 IBM PC had a Y2K bug in the date print out and I decided to solve it. After a very long night, I achieved success.
 
 Recently, I became a proud owner of an IBM PC. The original PC did not come with an RTC chip (Real-Time Clock) on board. Every time you turn the computer on, the DOS prompt will welcome you with a prompt to enter the current date and time. An expansion card added the time and date capability to the PC along with other perks (serial port and 384 KB RAM expansion). To accommodate for the painful time and date setting prompt in DOS, the expansion card came with a floppy disk program that gets executed after every boot and syncs the DOS internal time and date to the hardware time of the RTC chip in the expansion card.
 

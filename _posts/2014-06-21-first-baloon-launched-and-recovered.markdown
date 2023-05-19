@@ -3,11 +3,12 @@ layout: post
 title:  "First Balloon Launched and Recovered"
 date:   2014-06-21 17:05:00 -0700
 categories: Baloonery
+tags: baloon helium weather
 ---
 
-![Brent and I launching the first balloon.](/assets/2014-06-21-first-baloon-launched-and-recovered/0.jpg)
-
 After months of planning, we finally built and launched our first weather balloon. Thirty minutes into the flight, our GPS tracker stopped transmitting coordinates and we lost contact with the balloon. Ten days passed by until we received an update on its position. We successfully recovered the payload and got an exciting video from a GoPro camera that was on board. We also learned what to improve for the next launch.
+
+![Brent and I launching the first balloon.](/assets/2014-06-21-first-baloon-launched-and-recovered/0.jpg)
 
 # Construction
 It took us a few weeks of figuring out how to send a weather balloon to near space. Searching the web, watching videos, and also brainstorming and developing our ideas helped us to build a working balloon platform. We used a little bait box holding a camera and a tracker inside as our payload, a modified parachute to slow down the descent, and a latex weather balloon. All together connected with 16 feet of nylon string, we were expecting to get to as high as 70,000 feet.
