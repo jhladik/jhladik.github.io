@@ -4,10 +4,12 @@ author:
   email: "lounge-gazer-0o@icloud.com"
 description: A computer engineer interested in everything.
 
-theme: minima
+remote_theme: jekyll/minima
 
 show_excerpts: true
 google_analytics: G-ZEENHPSMM2
+paginate: 2
+paginate_path: "/:num/"
 
 minima:
   # skin: dark
@@ -19,3 +21,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-paginate
