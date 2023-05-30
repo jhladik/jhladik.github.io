@@ -8,7 +8,7 @@ permalink: /about/
 
 My name is Jakub Hladik but I usually go by "Jake". I was born and grew up in the Czech Republic and now live in the United States. I am a married Christian. I work as an FPGA design engineer. I enjoy learning, teaching others, playing and listening to music, photography, astronomy, flying, hiking, and having discussions with friends.
 
-{% include image.html url="/assets/about/1.jpg" description="Heavens above our heads captured on Nikon D90 with Nikkor 35mm f/1.8G just outside of Cleveland, TN." %}
+{% include image.html url="/assets/about/1.jpg" description="Heavens above our heads captured on Nikon D90 with DX NIKKOR 35mm f/1.8G just outside of Cleveland, TN." %}
 
 > "When I consider Your heavens, the work of Your fingers,  
 > The moon and the stars, which You have ordained;  
