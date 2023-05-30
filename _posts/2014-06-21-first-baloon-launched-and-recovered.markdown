@@ -29,7 +29,7 @@ Days went by and we believed the tracker malfunctioned during the first 30 minut
 # Recovery
 I received a text message from Brent on Thursday, June 19, that we got an update from the tracker. The weather was severe and most likely cause the payload to move and activated the tracker. The overall excitement didn’t stop me from driving 50 minutes from my house to pick it up near Traer, IA. I pulled over on a gravel road, north of the landing location, and went into a soybean field to finally see our balloon.
 
-{% include image.html url="/assets/2014-06-21-first-baloon-launched-and-recovered/4.png" description="The approximate flight path based on the launch and landing points." %}
+{% include image.html url="/assets/2014-06-21-first-baloon-launched-and-recovered/4.png" description="The approximate flight path based on the launch and landing points. Map data was obtained from OpenStreetMap." %}
 
 I entered the coordinates of the landing into a simple arrow GPS navigator application and followed the arrow, making my way through the bean field. It was raining and the beans were tall enough to hide the payload, making it impossible to see from a distance.
 
