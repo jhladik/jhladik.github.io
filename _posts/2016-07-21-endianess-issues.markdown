@@ -6,7 +6,7 @@ categories: Programming
 tags: programming software c
 ---
 
-Many of you have likely run into issues with transferring data between big-endian and little-endian architectures. One of my projects during my internship required me to send data out of the RAM of a microcontroller to another over SPI. The memory dumps on the transmitter and receiver looked perfect but when I was trying to read the "recreated" structure elements from the memory block, I was reading values that did not seem right.
+Many of you have likely run into issues with transferring data between big-endian and little-endian systems. One of my projects during my internship required me to send data out of the RAM of a microcontroller to another over SPI. The memory dumps on the transmitter and receiver looked perfect but when I was trying to read the "recreated" structure elements from the memory block, I was reading values that did not seem right.
 
 I checked with the manufacturer's datasheets and the microcontrollers were of different endianness. The master was big-endian and the slave little-endian. At this point, I had to decide how to achieve efficient data transfer between the two.
 

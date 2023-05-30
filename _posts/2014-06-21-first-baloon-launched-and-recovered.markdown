@@ -36,3 +36,9 @@ I punched the coordinates of the landing into a simple arrow GPS navigator and f
 As I was getting closer to the point, I took my eyes off the arrow on my phone and started looking around. Finally, I saw the payload with the parachute laying in the field. I picked it up and rushed back home to upload the videos from GoPro to my computer.
 
 {% include image.html url="/assets/2014-06-21-first-baloon-launched-and-recovered/3.jpg" description="The atmosphere from an altitude of around 60,000 ft." %}
+
+Note that the curvature of Earth on the photo above is mainly caused by the fish lens distortion of the GoPro camera. However, Earth is round. It is only difficult to see from our human perspective.
+
+> "He stretches out the north over empty space  
+> And hangs the earth on nothing."  
+> **-- Job 26:7 (NASB 1995)**

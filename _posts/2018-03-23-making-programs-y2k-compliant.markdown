@@ -6,7 +6,7 @@ categories: Programming
 tags: programming software assembly disassembly
 ---
 
-A program that sets time on my 1982 IBM PC had a Y2K bug in the date print out and I decided to solve it. After a very long night, I achieved success.
+A program that sets time on my 1982 IBM PC had a Y2K bug in the date print out and I decided to fix it. After a very long night, I succeeded.
 
 {% include image.html url="/assets/2018-03-23-making-programs-y2k-compliant/0.jpg" description="Before and after the Y2K bug fix." %}
 
