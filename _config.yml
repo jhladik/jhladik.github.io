@@ -8,11 +8,10 @@ remote_theme: jekyll/minima
 
 show_excerpts: true
 google_analytics: G-ZEENHPSMM2
-paginate: 2
+paginate: 10
 paginate_path: "/:num/"
 
 minima:
-  # skin: dark
   social_links:
     - { platform: github,  user_url: "https://github.com/jhladik" }
     - { platform: linkedin, user_url: "https://www.linkedin.com/in/jakub-hladik-baab95107" }
