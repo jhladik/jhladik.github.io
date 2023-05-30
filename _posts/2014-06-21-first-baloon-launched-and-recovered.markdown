@@ -8,7 +8,7 @@ tags: baloon helium weather
 
 After months of planning, we finally built and launched our first weather balloon. Thirty minutes into the flight, our GPS tracker stopped transmitting coordinates and we lost contact with the balloon. Ten days passed by until we received an update on its position. We successfully recovered the payload and got an exciting video from a GoPro camera that was on board. We also learned what to improve for the next launch.
 
-![Brent and I launching the first balloon.](/assets/2014-06-21-first-baloon-launched-and-recovered/0.jpg)
+{% include image.html url="/assets/2014-06-21-first-baloon-launched-and-recovered/0.jpg" description="Brent and I launching the first balloon." %}
 
 # Construction
 It took us a few weeks of figuring out how to send a weather balloon to near space. Searching the web, watching videos, and also brainstorming and developing our ideas helped us to build a working balloon platform. We used a little bait box holding a camera and a tracker inside as our payload, a modified parachute to slow down the descent, and a latex weather balloon. All together connected with 16 feet of nylon string, we were expecting to get to as high as 70,000 feet.
@@ -16,7 +16,7 @@ It took us a few weeks of figuring out how to send a weather balloon to near spa
 # Launch
 On Friday, June 13, we decided to launch our balloon. The weather conditions were great, except few clouds covering parts of the sky. We proceeded to the middle of a football field to fill up our balloon with helium. It took about half an hour to fill it to its launch diameter of 8 feet. We made sure our tracker and camera were on and working and we attached the balloon to the end of the string connected to the parachute. After a few last checks, I ended up holding the payload box in my hands and I could feel the force of the balloon trying to pull the box out of my hands. After the balloon received the appropriate amount of waving hands, I released the box and the balloon rocketed straight up in the air. Ascending at a rate of approximately 15 feet per second, the balloon started disappearing in the sky in a matter of a few minutes. Lastly, we just made sure that the tracker was transmitting the coordinates.
 
-![The balloon few seconds after launch.](/assets/2014-06-21-first-baloon-launched-and-recovered/1.jpg)
+{% include image.html url="/assets/2014-06-21-first-baloon-launched-and-recovered/1.jpg" description="The balloon few seconds after launch." %}
 
 # Flight
 The tracker provided us with coordinates every 5 minutes. We were checking our phones for new updates until 6:20 pm. The tracker stopped transmitting and we assumed it was just too high to have a good reception and it will start transmitting again during the descent. So we patiently waited.
@@ -31,8 +31,8 @@ I received a text message from Brent on Thursday, June 19, that we got an update
 
 I punched the coordinates of the landing into a simple arrow GPS navigator and followed the arrow, making my way through the bean field. It was raining and the beans were tall enough to hide the payload, making it impossible to see from a distance.
 
-![The landing site.](/assets/2014-06-21-first-baloon-launched-and-recovered/2.jpg)
+{% include image.html url="/assets/2014-06-21-first-baloon-launched-and-recovered/2.jpg" description="The landing site." %}
 
 As I was getting closer to the point, I took my eyes off the arrow on my phone and started looking around. Finally, I saw the payload with the parachute laying in the field. I picked it up and rushed back home to upload the videos from GoPro to my computer.
 
-![The atmosphere from an altitude of around 60,000 ft.](/assets/2014-06-21-first-baloon-launched-and-recovered/3.jpg)
+{% include image.html url="/assets/2014-06-21-first-baloon-launched-and-recovered/3.jpg" description="The atmosphere from an altitude of around 60,000 ft." %}
