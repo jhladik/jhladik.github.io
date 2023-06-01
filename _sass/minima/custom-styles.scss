@@ -1,0 +1,8 @@
+.site-title::before {
+    content: url("/assets/main/logo.svg");
+    display: inline-block;
+    position: relative;
+    width: 32px;
+    top: 7px;
+    margin-right: 12px;
+}
