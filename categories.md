@@ -2,6 +2,7 @@
 layout: page
 permalink: /categories/
 title: Categories
+date: 2023-05-19 10:58:00 -0600
 ---
 <div class="home">
 {%- for category in site.categories -%}

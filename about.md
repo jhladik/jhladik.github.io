@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+date: 2023-05-30 17:24:00 -0600
 ---
 
 {% include image.html url="/assets/about/0.jpg" description="Behold, I." %}
